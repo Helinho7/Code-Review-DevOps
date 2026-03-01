@@ -7,3 +7,5 @@
 - [ ] Está comentado?
 - [ ] Não há dados sensíveis?
 - [ ] Não há código desnecessário?
+
+Erro proposital para teste de reprovação
