@@ -7,3 +7,6 @@
 - [ ] Está comentado?
 - [ ] Não há dados sensíveis?
 - [ ] Não há código desnecessário?
+
+## Alteração com problema
+Teste de erro proposital.
